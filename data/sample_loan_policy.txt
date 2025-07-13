@@ -1,0 +1,50 @@
+Loan Policy: Personal Loan
+
+1. Loan Eligibility
+
+* Applicant must be between 21 and 60 years of age.
+* Minimum monthly income: ₹25,000 (salaried) or ₹40,000 (self-employed).
+* Applicant must be a resident Indian citizen.
+* Must have a valid PAN and Aadhaar card.
+
+2. Loan Amount
+
+* Minimum: ₹50,000
+* Maximum: ₹25,00,000
+* Depends on applicant’s credit score and income profile.
+
+3. Interest Rate
+
+* Ranges between 10.5% to 15.75% per annum.
+* Final rate is based on credit profile, repayment capacity, and tenure.
+
+4. Tenure
+
+* Minimum: 12 months
+* Maximum: 60 months (5 years)
+
+5. Required Documents
+
+* Identity proof: PAN Card, Aadhaar Card
+* Address proof: Utility bill, Passport, Rent agreement
+* Income proof:
+
+  * Salaried: Last 3 months’ salary slips and 6 months’ bank statement
+  * Self-employed: Last 2 years’ ITR and business proof
+* Employment Proof: Offer letter or company ID (for salaried)
+
+6. Processing Fee
+
+* 1.5% to 2.5% of loan amount (plus GST)
+
+7. Prepayment & Foreclosure
+
+* Allowed after 12 months of repayment.
+* Prepayment charges: 4% on outstanding principal.
+
+8. Other Terms
+
+* Late payment fee: ₹500 + GST per missed EMI.
+* Loan approval subject to verification and creditworthiness.
+
+Disclaimer: Terms and conditions are subject to change. Please refer to the official loan brochure or contact a bank representative for the most accurate and updated information.
