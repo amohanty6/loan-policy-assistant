@@ -26,6 +26,8 @@ def ingest():
     chunks = splitter.split_documents(docs)
 
     embeddings = HuggingFaceEmbeddings()
+    print("📄 Loading documents from:", os.listdir("data"))
+    print("📦 Saving FAISS index to:", INDEX_FOLDER)
     db = FAISS.from_documents(chunks, embeddings)
     db.save_local(INDEX_FOLDER)
 
