@@ -6,3 +6,5 @@ transformers
 sentence-transformers
 PyPDF2
 tqdm
+unstructured
+markdown
