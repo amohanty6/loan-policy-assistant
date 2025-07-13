@@ -1,0 +1,8 @@
+streamlit
+langchain
+faiss-cpu
+huggingface-hub
+transformers
+sentence-transformers
+PyPDF2
+tqdm
