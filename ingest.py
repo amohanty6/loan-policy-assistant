@@ -16,11 +16,13 @@ def load_documents():
         elif file.endswith(".txt"):
             documents.extend(TextLoader(file_path).load())
     return documents
+    print("📄 Found files in /data:", os.listdir(DATA_FOLDER))
 
 def ingest():
     docs = load_documents()
     if not docs:
         raise ValueError("No documents found to ingest!")
+        print("📦 Saving FAISS index to:", INDEX_FOLDER)
 
     splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=100)
     chunks = splitter.split_documents(docs)
